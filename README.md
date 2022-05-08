@@ -1,1 +1,1 @@
-# Ghost_Runner_Game
+# Ghost-Runner-Game
